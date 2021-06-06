@@ -1,7 +1,8 @@
-package jenkinsTestProj;
+package com.proj;
 
 import static org.junit.Assert.*;
 
+import org.jenkins.NumberClass;
 import org.junit.Test;
 
 public class TestRunner {

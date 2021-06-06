@@ -1,10 +1,6 @@
-package jenkinsTestProj;
+package org.jenkins;
 
 public class NumberClass {
-	
-	public NumberClass() {
-		// TODO Auto-generated constructor stub
-	}
 
 	public int addNumber(int x, int y) {
 		return x+y;
